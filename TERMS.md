@@ -67,4 +67,3 @@ For support or questions, email:
 
 ---
 
-Would you also like me to rewrite your **Privacy Policy** (short version: “We don’t collect data, syncing is handled by iCloud/Apple”) to match this change? That way both your Terms and Privacy docs are consistent.
