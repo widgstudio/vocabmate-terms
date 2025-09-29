@@ -52,4 +52,4 @@ For any questions or support, please contact us:
 
 ---
 
-Do you want me to also draft a **one-line “App Store Privacy Labels” version** (the one Apple requires: *Data Not Collected*) to keep things consistent with your new setup?
+
