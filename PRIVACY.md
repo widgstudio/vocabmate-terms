@@ -1,44 +1,55 @@
-# Privacy Policy for VocabMate  
-_Last Updated: August 22, 2025_  
 
-VocabMate (“the App”) respects your privacy. This document explains what data we store, how we use it, and your rights.  
+
+# Privacy Policy for VocabMate
+
+*Last Updated: September 29, 2025*
+
+VocabMate (“the App”) respects your privacy. This document explains how your data is handled.
 
 ---
 
 ## Information We Collect
-- **Authentication Data:** Your Google or Apple login may provide us with your email address and display name. This is used only to associate your vocabulary list with your account.  
-- **Vocabulary Data (Cloud):** Word text, tags (if any), timestamps, and soft-delete flag.  
-- **Local Data (on your device):** Definitions, examples, phonetics, origin, audio assets, and enrichment cache for faster offline reading.  
+
+* **We do not collect, store, or share any personal information.**
+* All your vocabulary content (words, tags, notes, examples, etc.) remains under your control.
+* Data may sync across your Apple devices using **Apple iCloud**, which is governed by Apple’s privacy and security policies.
 
 ---
 
-## How We Use Your Data
-- To let you securely store and retrieve your vocabulary list.  
-- To provide sync across your devices.  
-- We **do not sell, rent, or share** your personal information with advertisers or third parties.  
-- We do not show ads or trackers in the App.  
+## How Your Data Is Used
+
+* Your content stays on your device and in your iCloud account.
+* VocabMate does not process, sell, rent, or share your personal information with advertisers or third parties.
+* No ads or third-party trackers are used in the App.
 
 ---
 
 ## Children’s Privacy
-VocabMate is designed for learners of all ages. We do not knowingly collect personal information from children under 13 without parental consent. If you are a parent or guardian and believe your child has provided us with personal information, you can request deletion by contacting us at **widgstudio@gmail.com**.  
+
+VocabMate is designed for learners of all ages. We do not knowingly collect personal information from children under 13. Since all syncing is handled by Apple iCloud, parental consent should be managed through Apple’s account controls.
 
 ---
 
 ## Data Deletion
-- From the App: Use **Settings → Clear All Data** to remove your saved data from the cloud.  
-- Deleting the App wipes your local cache.  
-- You may also email **widgstudio@gmail.com** to request account deletion.  
+
+* You control your data entirely.
+* To delete your content, remove it from within the App or delete the App from your device.
+* To manage or delete synced data, use your Apple iCloud account settings.
 
 ---
 
 ## Security
-- All communication is encrypted via **TLS**.  
-- Minimal data storage reduces exposure.  
+
+* Sync and storage are handled by Apple iCloud with industry-standard encryption.
+* VocabMate itself does not transmit your data to any third-party servers.
 
 ---
 
 ## Contact
-For any questions, concerns, or deletion requests, please contact us:  
-**Email:** widgstudio@gmail.com  
 
+For any questions or support, please contact us:
+**Email:** [widgstudio@gmail.com](mailto:widgstudio@gmail.com)
+
+---
+
+Do you want me to also draft a **one-line “App Store Privacy Labels” version** (the one Apple requires: *Data Not Collected*) to keep things consistent with your new setup?
